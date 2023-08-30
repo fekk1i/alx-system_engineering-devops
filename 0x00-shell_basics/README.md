@@ -1,1 +1,1 @@
-test test
+prints the full working directory
